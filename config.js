@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Highlights', // <title>
-  manifestName: 'Highlights',
-  manifestShortName: 'Landing', // max 12 characters
+  siteTitle: 'Maria Ilutuba', // <title>
+  manifestName: 'MariaIlutuba',
+  manifestShortName: 'MariaIlutuba', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-highlights/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Maria Ilutuba',
-  subHeading: 'Iluteenused ja juuste lõikus',
+  subHeading: 'Iluteenused Valgamaal',
   // social
   socialLinks: [
     {

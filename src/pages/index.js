@@ -24,7 +24,7 @@ const IndexPage = () => (
         </span>
         <div className="content">
           <header className="major">
-            <h2>Who I am</h2>
+            <h2>Iluteenused ja juuste lõikus</h2>
           </header>
           <p>
             Aliquam ante ac id. Adipiscing interdum lorem praesent fusce
@@ -56,105 +56,85 @@ const IndexPage = () => (
               <thead>
                 <tr>
                   <th>Teenus</th>
-                  <th>Kirjeldus</th>
                   <th>Hind</th>
                 </tr>
               </thead>
               <tbody>
                 <tr>
                   <td>Laste maniküür</td>
-                  <td>Ante turpis integer aliquet porttitor.</td>
                   <td>5€</td>
                 </tr>
                 <tr>
                   <td>Geellaki maniküür</td>
-                  <td>Vis ac commodo adipiscing arcu aliquet.</td>
                   <td>18€</td>
                 </tr>
                 <tr>
                   <td>Geellaki eemaldamine ja hooldus</td>
-                  <td> Morbi faucibus arcu accumsan lorem.</td>
                   <td>10€</td>
                 </tr>
                 <tr>
                   <td>Maniküür naistele, meestele</td>
-                  <td>Vitae integer tempus condimentum.</td>
                   <td>10€</td>
                 </tr>
                 <tr>
                   <td>Maniküür koos parafiini hooldusega</td>
-                  <td>Ante turpis integer aliquet porttitor.</td>
                   <td>18€</td>
                 </tr>
 
                 <tr>
                   <td>Parafiini hooldus kätele</td>
-                  <td>Ante turpis integer aliquet porttitor.</td>
                   <td>5€</td>
                 </tr>
                 <tr>
                   <td>Pärlite kasutamine (1 pärl)</td>
-                  <td>Ante turpis integer aliquet porttitor.</td>
                   <td>0,2€</td>
                 </tr>
                 <tr>
                   <td>Kleepsud</td>
-                  <td>Ante turpis integer aliquet porttitor.</td>
                   <td>0,2€</td>
                 </tr>
                 <tr>
                   <td>Poleerimine</td>
-                  <td>Ante turpis integer aliquet porttitor.</td>
                   <td>2€</td>
                 </tr>
                 <tr>
                   <td>Ripsmete värvimine</td>
-                  <td>Ante turpis integer aliquet porttitor.</td>
                   <td>5€</td>
                 </tr>
                 <tr>
                   <td>Külmude piiramine</td>
-                  <td>Ante turpis integer aliquet porttitor.</td>
                   <td>3-5€</td>
                 </tr>
                 <tr>
                   <td>Kulmude värvimine</td>
-                  <td>Ante turpis integer aliquet porttitor.</td>
                   <td>3-5€</td>
                 </tr>
                 <tr>
                   <td>Pediküür</td>
-                  <td>Ante turpis integer aliquet porttitor.</td>
                   <td>18€</td>
                 </tr>
                 <tr>
                   <td>Pediküür lakiga</td>
-                  <td>Ante turpis integer aliquet porttitor.</td>
                   <td>19€</td>
                 </tr>
                 <tr>
                   <td>Pediküür geellakiga</td>
-                  <td>Ante turpis integer aliquet porttitor.</td>
                   <td>23€</td>
                 </tr>
                 <tr>
                   <td>Pediküür geellaki ja kaunistustega</td>
-                  <td>Ante turpis integer aliquet porttitor.</td>
                   <td>25€</td>
                 </tr>
                 <tr>
                   <td>Vuntside depileerimine</td>
-                  <td>Ante turpis integer aliquet porttitor.</td>
                   <td>1,5€</td>
                 </tr>
                 <tr>
                   <td>Kaenla depileerimine</td>
-                  <td>Ante turpis integer aliquet porttitor.</td>
                   <td>5-8€</td>
                 </tr>
                 <tr>
                   <td>Meeste pediküür</td>
-                  <td>Ante turpis integer aliquet porttitor.</td>
                   <td>20€</td>
                 </tr>
               </tbody>
@@ -199,21 +179,21 @@ const IndexPage = () => (
     <section id="footer">
       <div className="container">
         <header className="major">
-          <h2>Get in touch</h2>
+          <h2>Saada kiri</h2>
         </header>
         <form method="post" action="#">
           <div className="row gtr-uniform">
             <div className="col-6 col-12-xsmall">
-              <input type="text" name="name" id="name" placeholder="Name" />
+              <input type="text" name="name" id="name" placeholder="Nimi" />
             </div>
             <div className="col-6 col-12-xsmall">
-              <input type="email" name="email" id="email" placeholder="Email" />
+              <input type="email" name="email" id="email" placeholder="E-kirja aadress" />
             </div>
             <div className="col-12">
               <textarea
                 name="message"
                 id="message"
-                placeholder="Message"
+                placeholder="Sinu sõnum"
                 rows="4"
               />
             </div>
@@ -222,7 +202,7 @@ const IndexPage = () => (
                 <li>
                   <input
                     type="submit"
-                    value="Send Message"
+                    value="Saada"
                     className="primary"
                   />
                 </li>
