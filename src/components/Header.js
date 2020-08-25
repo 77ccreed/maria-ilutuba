@@ -6,8 +6,8 @@ export default function Header() {
   return (
     <section id="header">
       <header className="major">
-        <h1>{config.heading}</h1>
-        <p>{config.subHeading}</p>
+        <h1 className="tiitel">{config.heading}</h1>
+        <p className="tiitel">{config.subHeading}</p>
       </header>
       <div className="container">
         <ul className="actions special">
