@@ -24,7 +24,7 @@ const IndexPage = () => (
         </span>
         <div className="content">
           <header className="major">
-            <h2>Iluteenused ja juuste lõikus</h2>
+            <h2>Iluteenus ja juuste lõikus</h2>
           </header>
           <p>
             Aliquam ante ac id. Adipiscing interdum lorem praesent fusce

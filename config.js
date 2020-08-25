@@ -1,10 +1,10 @@
 module.exports = {
   siteTitle: 'Maria Ilutuba', // <title>
-  manifestName: 'MariaIlutuba',
-  manifestShortName: 'MariaIlutuba', // max 12 characters
+  manifestName: 'Maria Ilutuba',
+  manifestShortName: 'Ilutuba', // max 12 characters
   manifestStartUrl: '/',
-  manifestBackgroundColor: '#663399',
-  manifestThemeColor: '#663399',
+  manifestBackgroundColor: '#61686b',
+  manifestThemeColor: '#61686b',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-highlights/`, // This path is subpath of your hosting https://domain/portfolio
