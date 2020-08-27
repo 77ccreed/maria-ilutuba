@@ -27,11 +27,7 @@ const IndexPage = () => (
             <h2>Iluteenus ja juuste lõikus</h2>
           </header>
           <p>
-            Aliquam ante ac id. Adipiscing interdum lorem praesent fusce
-            pellentesque arcu feugiat. Consequat sed ultricies rutrum. Sed
-            adipiscing eu amet interdum lorem blandit vis ac commodo aliquet
-            integer vulputate phasellus lorem ipsum dolor lorem magna consequat
-            sed etiam adipiscing interdum.
+            Meie ilusalong asub Pukas, Ääre tn. 10-6. Pakume meeste, naiste ja laste juuste lõikust ning iluteenust. Maniküüri ja pediküüri. Valga maakonna piires teostame koduvisiite.
           </p>
         </div>
         <Scroll type="id" element="two">

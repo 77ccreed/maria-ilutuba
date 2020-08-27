@@ -44,11 +44,10 @@ class Layout extends Component {
             <Helmet
               title={data.site.siteMetadata.title}
               meta={[
-                { name: 'description', content: 'Highlights' },
-                { name: 'keywords', content: 'site, web' },
+                { name: 'description', content: 'Highlights' }
               ]}
             >
-              <html lang="en" />
+              <html lang="et" />
             </Helmet>
             <div className={isPreloaded ? 'main-body is-preload' : 'main-body'}>
               {children}
