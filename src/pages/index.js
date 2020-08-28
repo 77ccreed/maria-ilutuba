@@ -27,7 +27,7 @@ const IndexPage = () => (
             <h2>Iluteenus ja juuste lõikus</h2>
           </header>
           <p>
-            Meie ilusalong asub Pukas, Ääre tn. 10-6. Pakume meeste, naiste ja laste juuste lõikust ning iluteenust. Maniküüri ja pediküüri. Valga maakonna piires teostame koduvisiite.
+            Ilusalong Pukas, Ääre tn. 10-6. Pakume juuste lõikust ja iluteenust nii täiskasvanutele kui lastele. Maniküür, pediküür ja muud iluteenused. Juuste ja habeme lõikus meestele.
           </p>
         </div>
         <Scroll type="id" element="two">
@@ -82,11 +82,7 @@ const IndexPage = () => (
                   <td>5€</td>
                 </tr>
                 <tr>
-                  <td>Pärlite kasutamine (1 pärl)</td>
-                  <td>0,2€</td>
-                </tr>
-                <tr>
-                  <td>Kleepsud</td>
+                  <td>Pärlite kasutamine (1 pärl), kleepsud</td>
                   <td>0,2€</td>
                 </tr>
                 <tr>
@@ -154,14 +150,10 @@ const IndexPage = () => (
         </span>
         <div className="content">
           <header className="major">
-            <h2>One more thing</h2>
+            <h2>Broneeri aeg</h2>
           </header>
           <p>
-            Aliquam ante ac id. Adipiscing interdum lorem praesent fusce
-            pellentesque arcu feugiat. Consequat sed ultricies rutrum. Sed
-            adipiscing eu amet interdum lorem blandit vis ac commodo aliquet
-            integer vulputate phasellus lorem ipsum dolor lorem magna consequat
-            sed etiam adipiscing interdum.
+            Teenust pakume salongis ja Valgamaa piires teostame koduvisiite. Aja broneerimiseks helista numbril 55638016 või saada sõnum allpool.
           </p>
         </div>
         <Scroll type="id" element="footer">
