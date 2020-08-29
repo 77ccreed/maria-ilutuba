@@ -27,7 +27,7 @@ const IndexPage = () => (
             <h2>Iluteenus ja juuste lõikus</h2>
           </header>
           <p>
-            Ilusalong Pukas, Ääre tn. 10-6. Pakume juuste lõikust ja iluteenust nii täiskasvanutele kui lastele. Maniküür, pediküür ja muud iluteenused. Juuste ja habeme lõikus meestele.
+            Ilusalong Pukas, Ääre tn. 10-6. Pakume iluteenust nii täiskasvanutele kui lastele. Maniküür, pediküür ja näohooldus. Juuste lõikus naistele ja meestele. Habemeajamine.
           </p>
         </div>
         <Scroll type="id" element="two">
@@ -57,80 +57,25 @@ const IndexPage = () => (
               </thead>
               <tbody>
                 <tr>
-                  <td>Laste maniküür</td>
-                  <td>5€</td>
-                </tr>
-                <tr>
-                  <td>Geellaki maniküür</td>
-                  <td>18€</td>
-                </tr>
-                <tr>
-                  <td>Geellaki eemaldamine ja hooldus</td>
-                  <td>10€</td>
-                </tr>
-                <tr>
-                  <td>Maniküür naistele, meestele</td>
-                  <td>10€</td>
-                </tr>
-                <tr>
-                  <td>Maniküür koos parafiini hooldusega</td>
-                  <td>18€</td>
-                </tr>
-
-                <tr>
-                  <td>Parafiini hooldus kätele</td>
-                  <td>5€</td>
-                </tr>
-                <tr>
-                  <td>Pärlite kasutamine (1 pärl), kleepsud</td>
-                  <td>0,2€</td>
-                </tr>
-                <tr>
-                  <td>Poleerimine</td>
-                  <td>2€</td>
-                </tr>
-                <tr>
-                  <td>Ripsmete värvimine</td>
-                  <td>5€</td>
-                </tr>
-                <tr>
-                  <td>Külmude piiramine</td>
-                  <td>3-5€</td>
-                </tr>
-                <tr>
-                  <td>Kulmude värvimine</td>
-                  <td>3-5€</td>
-                </tr>
-                <tr>
-                  <td>Pediküür</td>
-                  <td>18€</td>
-                </tr>
-                <tr>
-                  <td>Pediküür lakiga</td>
-                  <td>19€</td>
-                </tr>
-                <tr>
-                  <td>Pediküür geellakiga</td>
-                  <td>23€</td>
-                </tr>
-                <tr>
-                  <td>Pediküür geellaki ja kaunistustega</td>
+                  <td>Juukselõikus meestele</td>
                   <td>25€</td>
                 </tr>
                 <tr>
-                  <td>Vuntside depileerimine</td>
-                  <td>1,5€</td>
+                  <td>Juukselõikus naistele</td>
+                  <td>30€</td>
                 </tr>
                 <tr>
-                  <td>Kaenla depileerimine</td>
-                  <td>5-8€</td>
+                  <td>Maniküür</td>
+                  <td>18€</td>
                 </tr>
                 <tr>
-                  <td>Meeste pediküür</td>
-                  <td>20€</td>
+                  <td>Pediküür</td>
+                  <td>25€</td>
                 </tr>
+
               </tbody>
             </table>
+            <Link to="/hinnakiri">Kogu hinnakiri</Link>
           </div>
 
 
@@ -198,7 +143,7 @@ const IndexPage = () => (
             </div>
           </div>
         </form>
-        <Link to="/Elements"> Check out Elements page</Link>
+        <Link to="/hinnakiri">Kogu hinnakiri</Link>
       </div>
       <Footer />
     </section>
