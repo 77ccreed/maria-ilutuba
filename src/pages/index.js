@@ -75,7 +75,7 @@ const IndexPage = () => (
 
               </tbody>
             </table>
-            <Link to="/hinnakiri">Kogu hinnakiri</Link>
+            <Link to="/hinnakiri">Täielik hinnakiri</Link>
           </div>
 
 
@@ -98,7 +98,7 @@ const IndexPage = () => (
             <h2>Broneeri aeg</h2>
           </header>
           <p>
-            Teenust pakume salongis ja Valgamaa piires teostame koduvisiite. Aja broneerimiseks helista numbril 55638016 või saada sõnum allpool.
+            Aja broneerimiseks helista numbril 55638016 või saada sõnum allpool. Iluteenus meie salongis. Valgamaa piires teeme koduvisiite.
           </p>
         </div>
         <Scroll type="id" element="footer">
@@ -143,7 +143,7 @@ const IndexPage = () => (
             </div>
           </div>
         </form>
-        <Link to="/hinnakiri">Kogu hinnakiri</Link>
+        <Link to="/hinnakiri">Täielik hinnakiri</Link>
       </div>
       <Footer />
     </section>
