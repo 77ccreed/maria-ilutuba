@@ -114,7 +114,17 @@ const IndexPage = () => (
         <header className="major">
           <h2>Saada kiri</h2>
         </header>
-        <form method="post" data-netlify="true" name="kontakt">
+        <form method="post" action="#" data-netlify="true" name="kontakt" data-netlify-honeypot="bot-field">
+
+          {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
+          <input type="hidden" name="form-name" value="contact" />
+          <div hidden>
+            <label>
+              Don’t fill this out:{' '}
+              <input name="bot-field" />
+            </label>
+          </div>
+
           <div className="row gtr-uniform">
             <div className="col-6 col-12-xsmall">
               <input type="text" name="name" id="name" placeholder="Nimi" />
