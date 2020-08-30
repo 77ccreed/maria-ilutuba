@@ -117,6 +117,9 @@ const IndexPage = () => (
         <form method="post" data-netlify="true" name="kontakt" >
 
           <div className="row gtr-uniform">
+            <input type="hidden" name="kontakt" value="contact" />
+
+
             <div className="col-6 col-12-xsmall">
               <input type="text" name="name" id="name" placeholder="Nimi" />
             </div>
