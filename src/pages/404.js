@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Layout from '../components/Layout';
+import { Link } from 'gatsby';
 
 const IndexPage = () => (
   <Layout>
@@ -12,6 +13,7 @@ const IndexPage = () => (
           </header>
           <section>
             <h4>Sellist URL-i ei ole.</h4>
+            <Link to="/">Tagasi pealehele</Link>
           </section>
         </div>
       </div>

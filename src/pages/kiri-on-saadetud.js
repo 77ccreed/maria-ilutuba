@@ -1,6 +1,7 @@
 import React from 'react';
 
 import Layout from '../components/Layout';
+import { Link } from 'gatsby';
 
 const IndexPage = () => (
   <Layout>
@@ -11,7 +12,8 @@ const IndexPage = () => (
             <h2>Teie kiri on saadetud.</h2>
           </header>
           <section>
-            <h4>Vastame esimesel võimalusel.</h4>
+            <p>Äitäh kirja eest! Vastame esimesel võimalusel.</p>
+            <Link to="/">Tagasi pealehele</Link>
           </section>
         </div>
       </div>
