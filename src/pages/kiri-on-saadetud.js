@@ -8,10 +8,10 @@ const IndexPage = () => (
       <div className="container">
         <div className="content">
           <header className="major">
-            <h2>Lehte ei leitud</h2>
+            <h2>Teie kiri on saadetud.</h2>
           </header>
           <section>
-            <h4>Sellist URL-i ei ole.</h4>
+            <h4>Vastame esimesel võimalusel.</h4>
           </section>
         </div>
       </div>

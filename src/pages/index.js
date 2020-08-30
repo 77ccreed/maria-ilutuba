@@ -114,7 +114,7 @@ const IndexPage = () => (
         <header className="major">
           <h2>Saada kiri</h2>
         </header>
-        <form method="post" data-netlify="true" name="kontakt" >
+        <form method="post" data-netlify="true" name="kontakt" action="/kiri-on-saadetud/" >
 
           <div className="row gtr-uniform">
             <input type="hidden" name="form-name" value="kontakt" />
