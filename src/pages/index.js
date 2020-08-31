@@ -27,7 +27,7 @@ const IndexPage = () => (
             <h2>Iluteenus ja juuste lõikus</h2>
           </header>
           <p>
-            Ilusalong Pukas, Ääre tn. 10-6. Pakume iluteenust nii täiskasvanutele kui lastele. Maniküür, pediküür ja näohooldus. Juuste lõikus naistele ja meestele. Habemeajamine.
+            Ilusalong Rõngus, Valga mnt. 9. Pakume iluteenust nii täiskasvanutele kui lastele. Maniküür, pediküür ja näohooldus. Juuste lõikus naistele ja meestele. Habemeajamine.
           </p>
         </div>
         <Scroll type="id" element="two">
@@ -66,11 +66,19 @@ const IndexPage = () => (
                 </tr>
                 <tr>
                   <td>Maniküür</td>
-                  <td>18€</td>
+                  <td>20€</td>
                 </tr>
                 <tr>
                   <td>Pediküür</td>
                   <td>25€</td>
+                </tr>
+                <tr>
+                  <td>Parafiinihooldus näole</td>
+                  <td>25€</td>
+                </tr>
+                <tr>
+                  <td>Parafiinihooldus kätele</td>
+                  <td>8€</td>
                 </tr>
 
               </tbody>
@@ -98,7 +106,7 @@ const IndexPage = () => (
             <h2>Broneeri aeg</h2>
           </header>
           <p>
-            Aja broneerimiseks helista numbril 55638016 või saada sõnum allpool. Iluteenus meie salongis. Valgamaa piires teeme koduvisiite.
+            Aja broneerimiseks helista numbril 55638016 või saada sõnum allpool. Iluteenus meie salongis Rõngus, Valga mnt. 9. Valgamaa piires teeme koduvisiite.
           </p>
         </div>
         <Scroll type="id" element="footer">
