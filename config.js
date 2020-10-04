@@ -8,8 +8,8 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-highlights/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Maria Ilutuba',
-  subHeading: 'Iluteenus Valgamaal',
+  heading: 'Maria Ilustuudio',
+  subHeading: 'Pediküür, maniküür ja iluteenus',
   // social
   socialLinks: [
     {
