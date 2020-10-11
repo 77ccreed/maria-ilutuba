@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: 'Maria Ilutuba', // <title>
-  manifestName: 'Maria Ilutuba',
-  manifestShortName: 'Ilutuba', // max 12 characters
+  siteTitle: 'Maria Ilustuudio', // <title>
+  manifestName: 'Maria Ilustuudio',
+  manifestShortName: 'Ilustuudio', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#313a3d',
   manifestThemeColor: '#313a3d',

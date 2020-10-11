@@ -28,8 +28,12 @@ const IndexPage = () => (
                   <td>5€</td>
                 </tr>
                 <tr>
-                  <td>Geellaki maniküür</td>
+                  <td>Geellaki maniküür ühevärviline</td>
                   <td>18€</td>
+                </tr>
+                <tr>
+                  <td>Geellaki maniküür disainiga</td>
+                  <td>23€</td>
                 </tr>
                 <tr>
                   <td>Geellaki eemaldamine ja hooldus</td>
@@ -54,6 +58,10 @@ const IndexPage = () => (
                 </tr>
                 <tr>
                   <td>Küünte poleerimine</td>
+                  <td>3€</td>
+                </tr>
+                <tr>
+                  <td>Küünte parandus hoolduse väliselt</td>
                   <td>3€</td>
                 </tr>
                 <tr>
