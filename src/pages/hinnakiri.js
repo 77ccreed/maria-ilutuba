@@ -50,7 +50,7 @@ const IndexPage = () => (
 
                 <tr>
                   <td>Parafiini hooldus kätele</td>
-                  <td>7€</td>
+                  <td>8€</td>
                 </tr>
                 <tr>
                   <td>Pärlite kasutamine (1 pärl), kleepsud</td>
@@ -66,7 +66,7 @@ const IndexPage = () => (
                 </tr>
                 <tr>
                   <td>Ripsmete värvimine</td>
-                  <td>8€</td>
+                  <td>7€</td>
                 </tr>
                 <tr>
                   <td>Külmude piiramine</td>
@@ -74,7 +74,7 @@ const IndexPage = () => (
                 </tr>
                 <tr>
                   <td>Kulmude värvimine</td>
-                  <td>5-7€</td>
+                  <td>7€</td>
                 </tr>
                 <tr>
                   <td>Pediküür naistele</td>
