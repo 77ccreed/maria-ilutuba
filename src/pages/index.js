@@ -106,7 +106,7 @@ const IndexPage = () => (
             <h2>Broneeri aeg</h2>
           </header>
           <p>
-            Aja broneerimiseks helista numbril 55638016 või saada sõnum allpool. Iluteenus meie salongis Rõngus, Valga mnt. 9. Valgamaa piires teeme koduvisiite.
+            Helista numbril 55638016 või saada sõnum allpool. Iluteenus meie salongis Rõngus, Valga mnt. 9. Tartumaa ja Valgamaa piires teeme koduvisiite. Tellides teenuse koju lisandub hindadele visiiditasu 15€.
           </p>
         </div>
         <Scroll type="id" element="footer">

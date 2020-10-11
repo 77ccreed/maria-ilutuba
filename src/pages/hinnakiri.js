@@ -46,35 +46,35 @@ const IndexPage = () => (
 
                 <tr>
                   <td>Parafiini hooldus kätele</td>
-                  <td>5€</td>
+                  <td>7€</td>
                 </tr>
                 <tr>
                   <td>Pärlite kasutamine (1 pärl), kleepsud</td>
-                  <td>0,2€</td>
+                  <td>0,15€</td>
                 </tr>
                 <tr>
-                  <td>Poleerimine</td>
-                  <td>2€</td>
+                  <td>Küünte poleerimine</td>
+                  <td>3€</td>
                 </tr>
                 <tr>
                   <td>Ripsmete värvimine</td>
-                  <td>5€</td>
+                  <td>8€</td>
                 </tr>
                 <tr>
                   <td>Külmude piiramine</td>
-                  <td>3-5€</td>
+                  <td>5-7€</td>
                 </tr>
                 <tr>
                   <td>Kulmude värvimine</td>
-                  <td>3-5€</td>
+                  <td>5-7€</td>
                 </tr>
                 <tr>
-                  <td>Pediküür</td>
-                  <td>18€</td>
+                  <td>Pediküür naistele</td>
+                  <td>20€</td>
                 </tr>
                 <tr>
                   <td>Pediküür lakiga</td>
-                  <td>19€</td>
+                  <td>21€</td>
                 </tr>
                 <tr>
                   <td>Pediküür geellakiga</td>
@@ -85,6 +85,10 @@ const IndexPage = () => (
                   <td>25€</td>
                 </tr>
                 <tr>
+                  <td>Pediküür meestele</td>
+                  <td>25-30€</td>
+                </tr>
+                <tr>
                   <td>Vuntside depileerimine</td>
                   <td>1,5€</td>
                 </tr>
@@ -93,7 +97,7 @@ const IndexPage = () => (
                   <td>5-8€</td>
                 </tr>
                 <tr>
-                  <td>Meeste pediküür</td>
+                  <td>Jalgade depileerimine</td>
                   <td>20€</td>
                 </tr>
               </tbody>

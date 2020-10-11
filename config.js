@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-highlights/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Maria Ilustuudio',
-  subHeading: 'Pediküür, maniküür ja iluteenus',
+  subHeading: 'Maniküür, pediküür ja iluteenus',
   // social
   socialLinks: [
     {
