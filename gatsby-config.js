@@ -21,7 +21,8 @@ module.exports = {
     },
     'gatsby-plugin-sass',
     'gatsby-plugin-offline',
-    'gatsby-plugin-sitemap',
+    'gatsby-plugin-robots-txt',
+    'gatsby-plugin-sitemap'
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
