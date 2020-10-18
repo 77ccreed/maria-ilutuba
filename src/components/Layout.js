@@ -44,7 +44,7 @@ class Layout extends Component {
             <Helmet
               title={data.site.siteMetadata.title}
               meta={[
-                { name: 'description', content: 'Highlights' }
+                { name: 'description', content: 'Maniküür, pediküür ja iluteenus. Võimalus Tartu- ja Valgamaal tellida teenus koju.' }
               ]}
             >
               <html lang="et" />

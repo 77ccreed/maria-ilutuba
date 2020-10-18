@@ -98,7 +98,7 @@ const IndexPage = () => (
                 </tr>
                 <tr>
                   <td>Vuntside depileerimine</td>
-                  <td>1,5€</td>
+                  <td>2€</td>
                 </tr>
                 <tr>
                   <td>Kaenla depileerimine</td>
@@ -106,7 +106,7 @@ const IndexPage = () => (
                 </tr>
                 <tr>
                   <td>Jalgade depileerimine</td>
-                  <td>20€</td>
+                  <td>15€</td>
                 </tr>
               </tbody>
             </table>
