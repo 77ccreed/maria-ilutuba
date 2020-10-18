@@ -58,28 +58,29 @@ const IndexPage = () => (
               <tbody>
                 <tr>
                   <td>Juukselõikus meestele</td>
-                  <td>25€</td>
+                  <td>6-8€</td>
                 </tr>
                 <tr>
                   <td>Juukselõikus naistele</td>
-                  <td>30€</td>
+                  <td>8-10€</td>
+                </tr>
+                <tr>
+                  <td>Juukselõikus lastele</td>
+                  <td>5-7€</td>
                 </tr>
                 <tr>
                   <td>Maniküür</td>
-                  <td>20€</td>
+                  <td>10€</td>
                 </tr>
                 <tr>
                   <td>Pediküür</td>
-                  <td>25€</td>
+                  <td>20-30€</td>
                 </tr>
                 <tr>
                   <td>Parafiinihooldus näole</td>
                   <td>25€</td>
                 </tr>
-                <tr>
-                  <td>Parafiinihooldus kätele</td>
-                  <td>8€</td>
-                </tr>
+
 
               </tbody>
             </table>
@@ -106,7 +107,7 @@ const IndexPage = () => (
             <h2>Broneeri aeg</h2>
           </header>
           <p>
-            Helista numbril 55638016 või saada sõnum allpool. Iluteenus meie salongis Rõngus, Valga mnt. 9. Tartumaa ja Valgamaa piires teeme koduvisiite. Tellides teenuse koju lisandub hindadele visiiditasu 15€.
+            Helista numbril 55638016 või saada sõnum allpool. Iluteenus meie salongis Rõngus, Valga mnt. 9. Tartumaa ja Valgamaa piires teeme koduvisiite. Tellides teenuse koju lisandub visiiditasu 15€.
           </p>
         </div>
         <Scroll type="id" element="footer">

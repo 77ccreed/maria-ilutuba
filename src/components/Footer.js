@@ -17,12 +17,12 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; Maria Ilutuba OÜ</li>
+        <li>&copy; Maria Arak FIE (reg. kood 16073337)</li>
         <li>
-          Veebiarendus: <a href="https://tellikoduleht.ee/">OÜ Kodulehe Tellimine</a>
+          Ääre tn 10, 67217, Puka alevik, Otepää vald, Valga maakond
         </li>
         <li>
-          Pildid: <a href="https://www.pexels.com/">Pexel</a>
+          Tel: 55638016
         </li>
       </ul>
     </footer>
