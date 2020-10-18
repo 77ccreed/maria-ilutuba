@@ -24,15 +24,15 @@ const IndexPage = () => (
               </thead>
               <tbody>
                 <tr>
-                  <td>Juuste lõikus naistele</td>
+                  <td>Juukselõikus naistele</td>
                   <td>8-10€</td>
                 </tr>
                 <tr>
-                  <td>Juuste lõikus meestele</td>
+                  <td>Juukselõikus meestele</td>
                   <td>6-8€</td>
                 </tr>
                 <tr>
-                  <td>Juuste lõikus lastele</td>
+                  <td>Juukselõikus lastele</td>
                   <td>5-7€</td>
                 </tr>
                 <tr>
