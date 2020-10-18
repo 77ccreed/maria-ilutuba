@@ -57,16 +57,8 @@ const IndexPage = () => (
               </thead>
               <tbody>
                 <tr>
-                  <td>Juukselõikus meestele</td>
-                  <td>6-8€</td>
-                </tr>
-                <tr>
-                  <td>Juukselõikus naistele</td>
-                  <td>8-10€</td>
-                </tr>
-                <tr>
-                  <td>Juukselõikus lastele</td>
-                  <td>5-7€</td>
+                  <td>Juukselõikus</td>
+                  <td>5-10€</td>
                 </tr>
                 <tr>
                   <td>Maniküür</td>

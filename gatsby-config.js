@@ -28,6 +28,12 @@ module.exports = {
       options: {
         trackingId: "UA-180811575-1analytics",
       }
+    },
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+        siteUrl: `https://mariailutuba.ee/`,
+      },
     }
   ],
 };

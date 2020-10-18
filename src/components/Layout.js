@@ -48,6 +48,7 @@ class Layout extends Component {
               ]}
             >
               <html lang="et" />
+              <meta name="google-site-verification" content="mnmzNy-vFEsbgOIFBmDvNuyZ8M8sh5CZPG-rh3VLyeE" />
             </Helmet>
             <div className={isPreloaded ? 'main-body is-preload' : 'main-body'}>
               {children}
