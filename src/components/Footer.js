@@ -19,9 +19,6 @@ export default function Footer() {
       <ul className="copyright">
         <li>&copy; Maria Arak FIE (reg. kood 16073337)</li>
         <li>
-          Ääre tn 10, 67217, Puka alevik, Otepää vald, Valga maakond
-        </li>
-        <li>
           Tel: 55638016
         </li>
       </ul>
