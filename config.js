@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'Maria Ilutuba', // <title>
   manifestName: 'Maria Ilutuba',
   manifestShortName: 'Ilutuba', // max 12 characters
-  manifestStartUrl: '/',
+  manifestStartUrl: 'https://mariailutuba.ee/',
   manifestBackgroundColor: '#313a3d',
   manifestThemeColor: '#313a3d',
   manifestDisplay: 'standalone',
