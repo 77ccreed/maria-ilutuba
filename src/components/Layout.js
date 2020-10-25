@@ -43,12 +43,10 @@ class Layout extends Component {
           <>
             <Helmet
               title={data.site.siteMetadata.title}
-              meta={[
-                { name: 'description', content: 'Maniküür, pediküür ja iluteenus. Võimalus Tartu- ja Valgamaal tellida teenus koju.' }
-              ]}
             >
               <html lang="et" />
               <meta name="google-site-verification" content="mnmzNy-vFEsbgOIFBmDvNuyZ8M8sh5CZPG-rh3VLyeE" />
+              <meta name="description" content="Maniküür, pediküür ja näo ning käte hooldus parafiiniga. Depilatsioon. Ripsmete värvimine ning kulmude piiramine ja värvimine. Pakume iluteenus Rõngus ja teostame koduvisiite Tartu- ja Valgamaa piires." />
             </Helmet>
             <div className={isPreloaded ? 'main-body is-preload' : 'main-body'}>
               {children}
