@@ -24,10 +24,11 @@ const IndexPage = () => (
         </span>
         <div className="content">
           <header className="major">
-            <h2>Iluteenus ja juuste lõikus</h2>
+            <h2>Iluteenus Rõngus</h2>
           </header>
           <p>
-            Ilusalong Rõngus, Valga mnt. 9. Pakume iluteenust nii täiskasvanutele kui lastele. Maniküür, pediküür ja näohooldus. Juuste lõikus naistele ja meestele. Habemeajamine.
+            Maniküür, pediküür ja näo ning käte hooldus parafiiniga. Depilatsioon. Ripsmete värvimine ning kulmude piiramine ja värvimine. Pakume iluteenus Rõngus ja teostame koduvisiite Tartu- ja Valgamaa piires.
+
           </p>
         </div>
         <Scroll type="id" element="two">
