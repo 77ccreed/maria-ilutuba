@@ -7,7 +7,7 @@ module.exports = {
   manifestThemeColor: '#313a3d',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-highlights/`, // This path is subpath of your hosting https://domain/portfolio
+  //pathPrefix: `/maria-ilutuba/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Maria Ilutuba',
   subHeading: 'Maniküür, pediküür ja iluteenus',
   // social
