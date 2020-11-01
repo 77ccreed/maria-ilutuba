@@ -99,7 +99,7 @@ const IndexPage = () => (
             <h2>Broneeri aeg</h2>
           </header>
           <p>
-            Helista numbril 55638016 või saada sõnum allpool. Iluteenus meie salongis Rõngus, Valga mnt. 9 või Sulle sobivas kohas.
+            Helista numbril 55638016 või saada sõnum allpool. Broneeri iluteenus meie salongis Rõngus, Valga mnt. 9 või Sulle sobivas kohas.
           </p>
         </div>
         <Scroll type="id" element="footer">
