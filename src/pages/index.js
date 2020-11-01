@@ -57,10 +57,6 @@ const IndexPage = () => (
               </thead>
               <tbody>
                 <tr>
-                  <td>Juukselõikus</td>
-                  <td>5-10€</td>
-                </tr>
-                <tr>
                   <td>Maniküür</td>
                   <td>10€</td>
                 </tr>
@@ -69,7 +65,11 @@ const IndexPage = () => (
                   <td>20-30€</td>
                 </tr>
                 <tr>
-                  <td>Parafiinihooldus näole</td>
+                  <td>Jalgade parafiinihooldus</td>
+                  <td>10€</td>
+                </tr>
+                <tr>
+                  <td>Näo parafiinihooldus</td>
                   <td>25€</td>
                 </tr>
 
