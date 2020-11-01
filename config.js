@@ -8,14 +8,14 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   //pathPrefix: `/maria-ilutuba/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Maria Ilutuba',
+  heading: 'Telli iluteenus',
   subHeading: 'Maniküür, pediküür ja iluteenus',
   // social
   socialLinks: [
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      url: 'https://www.facebook.com/maria.arak.1',
     },
     {
       icon: 'fa-envelope-o',

@@ -24,11 +24,10 @@ const IndexPage = () => (
         </span>
         <div className="content">
           <header className="major">
-            <h2>Iluteenus Rõngus</h2>
+            <h2>Telli iluteenus koju</h2>
           </header>
           <p>
-            Maniküür, pediküür ja näo ning käte hooldus parafiiniga. Depilatsioon. Ripsmete värvimine ning kulmude piiramine ja värvimine. Pakume iluteenus Rõngus ja teostame koduvisiite Tartu- ja Valgamaa piires.
-
+            Telli iluteenus Tartu- või Valgamaa piires endale sobival ajal sobivasse kohta. Või broneeri aeg meie salongi Rõngus, Valga mnt. 9. Tellides teenuse koju lisandub visiiditasu 15€.
           </p>
         </div>
         <Scroll type="id" element="two">
@@ -100,7 +99,7 @@ const IndexPage = () => (
             <h2>Broneeri aeg</h2>
           </header>
           <p>
-            Helista numbril 55638016 või saada sõnum allpool. Iluteenus meie salongis Rõngus, Valga mnt. 9. Tartumaa ja Valgamaa piires teeme koduvisiite. Tellides teenuse koju lisandub visiiditasu 15€.
+            Helista numbril 55638016 või saada sõnum allpool. Iluteenus meie salongis Rõngus, Valga mnt. 9 või Sulle sobivas kohas.
           </p>
         </div>
         <Scroll type="id" element="footer">

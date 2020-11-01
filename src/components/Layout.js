@@ -42,11 +42,11 @@ class Layout extends Component {
         render={data => (
           <>
             <Helmet
-              title={data.site.siteMetadata.title}
+              title="Maniküür, pediküür ja muud iluteenused - FIE Maria Arak"
             >
               <html lang="et" />
               <meta name="google-site-verification" content="mnmzNy-vFEsbgOIFBmDvNuyZ8M8sh5CZPG-rh3VLyeE" />
-              <meta name="description" content="Maniküür, pediküür ja näo ning käte hooldus parafiiniga. Pakume iluteenus Rõngus ja teostame koduvisiite Tartu- ja Valgamaa piires." />
+              <meta name="description" content="FIE Maria Arak.  Ilusalong Rõngus. Teostame koduvisiite. Telli iluteenus Tartu- või Valgamaa piires endale koju. Maniküür, pediküür ja näohooldus parafiiniga." />
             </Helmet>
             <div className={isPreloaded ? 'main-body is-preload' : 'main-body'}>
               {children}
