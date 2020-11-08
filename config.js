@@ -15,7 +15,7 @@ module.exports = {
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://www.facebook.com/maria.arak.1',
+      url: 'https://www.facebook.com/mariailutuba',
     },
     {
       icon: 'fa-envelope-o',
