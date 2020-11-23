@@ -8,7 +8,7 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   //pathPrefix: `/maria-ilutuba/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Telli iluteenus',
+  heading: 'Iluteenus Rõngus',
   subHeading: 'Maniküür, pediküür ja näohooldus',
   // social
   socialLinks: [

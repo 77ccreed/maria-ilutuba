@@ -24,10 +24,10 @@ const IndexPage = () => (
         </span>
         <div className="content">
           <header className="major">
-            <h2>Telli iluteenus koju</h2>
+            <h2>Ajad ettetellimisel</h2>
           </header>
           <p>
-            Telli iluteenus Tartu- või Valgamaa piires endale sobival ajal sobivasse kohta. Või broneeri aeg meie salongi Rõngus, Valga mnt. 9. Tellides teenuse koju lisandub visiiditasu 15€.
+            Telli iluteenus Tartu- või Valgamaa piires endale sobival ajal sobivasse kohta. Või broneeri aeg meie ilusalongi Rõngus, Valga mnt. 9. Tellides teenuse koju lisandub visiiditasu 15€.
           </p>
         </div>
         <Scroll type="id" element="two">
@@ -99,7 +99,7 @@ const IndexPage = () => (
             <h2>Broneeri aeg</h2>
           </header>
           <p>
-            Helista numbril 55638016 või saada sõnum allpool. Broneeri iluteenus meie salongis Rõngus, Valga mnt. 9 või Sulle sobivas kohas.
+            Helista numbril 55638016 või saada sõnum allpool. Broneeri iluteenus meie ilusalongi Rõngus, Valga mnt. 9 või Sulle sobivas kohas.
           </p>
         </div>
         <Scroll type="id" element="footer">
