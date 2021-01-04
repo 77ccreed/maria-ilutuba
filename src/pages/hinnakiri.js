@@ -128,10 +128,6 @@ const IndexPage = () => (
                   <td>Kaenlaalused</td>
                   <td>5-8€</td>
                 </tr>
-                <tr>
-                  <td>Näopiirkonna depilatsioon</td>
-                  <td>2-5€</td>
-                </tr>
               </tbody>
             </table>
           </div>
