@@ -20,14 +20,14 @@ const IndexPage = () => (
     <section id="one" className="main special">
       <div className="container">
         <span className="image fit primary">
-          <img src={sections[0].bg} alt="Maria Ilutuba" />
+          <img src={sections[0].bg} alt="Maria Ilutuba - iluteenus Tartus." />
         </span>
         <div className="content">
           <header className="major">
             <h2>Ajad ettetellimisel</h2>
           </header>
           <p>
-            Telli iluteenus Tartu- või Valgamaa piires endale sobival ajal sobivasse kohta. Või broneeri aeg meie ilusalongi Rõngus, Valga mnt. 9. Tellides teenuse koju lisandub visiiditasu 15€.
+            Telli iluteenus Lõuna-Eestis endale sobival ajal sobivasse kohta. Töötame muuhulgas nii Tartus, Elvas kui ka Valgas. Tellides teenuse koju lisandub visiiditasu 15€.
           </p>
         </div>
         <Scroll type="id" element="two">
@@ -41,7 +41,7 @@ const IndexPage = () => (
     <section id="two" className="main special">
       <div className="container">
         <span className="image fit primary">
-          <img src={sections[1].bg} alt="Iluteenus Rõngus" />
+          <img src={sections[1].bg} alt="Iluteenus Lõuna-Eestis" />
         </span>
         <div className="content">
           <header className="major">
@@ -92,14 +92,14 @@ const IndexPage = () => (
     <section id="three" className="main special">
       <div className="container">
         <span className="image fit primary">
-          <img src={sections[2].bg} alt="Iluteenus meie salongis Rõngus" />
+          <img src={sections[2].bg} alt="Iluteenus" />
         </span>
         <div className="content">
           <header className="major">
             <h2>Broneeri aeg</h2>
           </header>
           <p>
-            Helista numbril 55638016 või saada sõnum allpool. Broneeri iluteenus meie ilusalongi Rõngus, Valga mnt. 9 või Sulle sobivas kohas.
+            Helista numbril 55638016 või saada sõnum allpool. Broneeri Sulle sobiv iluteenus.
           </p>
         </div>
         <Scroll type="id" element="footer">
