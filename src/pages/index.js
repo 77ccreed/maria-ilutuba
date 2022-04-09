@@ -27,7 +27,7 @@ const IndexPage = () => (
             <h2>Ajad ettetellimisel</h2>
           </header>
           <p>
-            Telli iluteenus Lõuna-Eestis endale sobival ajal sobivasse kohta. Töötame muuhulgas nii Tartus, Elvas kui ka Valgas. Tellides teenuse koju lisandub visiiditasu 15€.
+            Telli iluteenus Lõuna-Eestis endale sobival ajal sobivasse kohta. Töötame muuhulgas nii Tartus, Elvas kui ka Valgas. Tellides teenuse koju lisandub visiiditasu 15 €.
           </p>
         </div>
         <Scroll type="id" element="two">
@@ -58,21 +58,24 @@ const IndexPage = () => (
               <tbody>
                 <tr>
                   <td>Maniküür</td>
-                  <td>10€</td>
+                  <td>10-15 €</td>
                 </tr>
                 <tr>
                   <td>Pediküür</td>
-                  <td>20-30€</td>
+                  <td>20-30 €</td>
                 </tr>
                 <tr>
                   <td>Jalgade parafiinihooldus</td>
-                  <td>10€</td>
+                  <td>10 €</td>
                 </tr>
                 <tr>
                   <td>Näo parafiinihooldus</td>
-                  <td>25€</td>
+                  <td>25 €</td>
                 </tr>
-
+                <tr>
+                  <td>Juukselõikus</td>
+                  <td>10 €</td>
+                </tr>
 
               </tbody>
             </table>
