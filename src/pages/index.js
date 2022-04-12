@@ -31,7 +31,7 @@ const IndexPage = () => (
           </p>
         </div>
         <Scroll type="id" element="two">
-          <a href="#two" className="goto-next ">
+          <a href="#two" className="goto-next">
             Next
           </a>
         </Scroll>
