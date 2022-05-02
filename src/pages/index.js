@@ -27,7 +27,7 @@ const IndexPage = () => (
             <h2>Ajad ettetellimisel</h2>
           </header>
           <p>
-            Telli iluteenus Lõuna-Eestis endale sobival ajal sobivasse kohta. Töötame muuhulgas nii Tartus, Elvas kui ka Valgas. Tellides teenuse koju lisandub visiiditasu 15 €.
+            Telli iluteenus Lõuna-Eestis endale sobival ajal sobivasse kohta. Või külasta meid aadressil Rannu, Elva tee 13-14. Töötame muuhulgas nii Tartus, Elvas kui ka Valgas. Tellides teenuse koju lisandub visiiditasu 15 €.
           </p>
         </div>
         <Scroll type="id" element="two">
