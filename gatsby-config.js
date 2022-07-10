@@ -56,13 +56,13 @@ module.exports = {
     },
     'gatsby-plugin-robots-txt',
     {
-      resolve: `gatsby- plugin - google - analytics`,
+      resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: "UA-180811575-1",
       }
     },
     {
-      resolve: `gatsby- plugin - canonical - urls`,
+      resolve: `gatsby-plugin-canonical-urls`,
       options: {
         siteUrl: `https://mariailutuba.ee/`,
       }
