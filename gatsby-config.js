@@ -22,7 +22,6 @@ module.exports = {
     },
     'gatsby-plugin-sass',
     'gatsby-plugin-offline',
-    'gatsby-plugin-robots-txt',
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
