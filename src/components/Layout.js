@@ -46,7 +46,7 @@ class Layout extends Component {
             >
               <html lang="et" />
               <meta name="google-site-verification" content="mnmzNy-vFEsbgOIFBmDvNuyZ8M8sh5CZPG-rh3VLyeE" />
-              <meta name="description" content="FIE Maria Arak.  Ilusalong Rõngus. Teostame koduvisiite. Telli iluteenus Tartu- või Valgamaa piires endale koju. Maniküür, pediküür ja näohooldus parafiiniga." />
+              <meta name="description" content="FIE Maria Arak. Ilusalong Rõngus. Teostame koduvisiite. Telli iluteenus Tartu- või Valgamaa piires endale koju. Maniküür, pediküür ja näohooldus parafiiniga." />
 
               <script type="application/ld+json">
                 {JSON.stringify({
@@ -60,7 +60,7 @@ class Layout extends Component {
                     "streetAddress": "Valga mnt. 9",
                     "postalCode": "61001"
                   },
-                  "description": "Iluteenus - maniküür, pediküür ja näohooldus.",
+                  "description": "Avasta ilu uus tase - kvaliteetne maniküür, pediküür ja näohooldus, mis on loodud just Sinu vajaduste rahuldamiseks.",
                   "name": "Maria Arak FIE",
                   "telephone": "+372 5563 8016",
                   "priceRange": "€€",

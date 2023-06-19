@@ -26,8 +26,8 @@ const IndexPage = () => (
           <header className="major">
             <h2>Ajad ettetellimisel</h2>
           </header>
-          <p>
-            Telli iluteenus Lõuna-Eestis endale sobival ajal sobivasse kohta. Või külasta meid aadressil Rannu, Elva tee 13-14. Töötame muuhulgas nii Tartus, Elvas kui ka Valgas. Tellides teenuse koju lisandub visiiditasu 15 €.
+          <p>Hellita end meie teenustega.
+            Telli iluteenus Lõuna-Eestis endale sobival ajal sobivasse kohta. Või külasta meid aadressil Rannu, Elva tee 13-14. Töötame muuhulgas nii Tartus, Elvas kui ka Valgas. Naudi meie teenuseid mugavalt oma kodus vaid 15 € lisatasu eest.
           </p>
         </div>
         <Scroll type="id" element="two">
@@ -86,7 +86,7 @@ const IndexPage = () => (
         </div>
         <Scroll type="id" element="three">
           <a href="#three" className="goto-next ">
-            Next
+            Järgmine
           </a>
         </Scroll>
       </div>
@@ -99,15 +99,15 @@ const IndexPage = () => (
         </span>
         <div className="content">
           <header className="major">
-            <h2>Broneeri aeg</h2>
+            <h2>Broneeri aeg ja naudi iluteenust!</h2>
           </header>
           <p>
-            Helista numbril 55638016 või saada sõnum allpool. Broneeri Sulle sobiv iluteenus.
+            Helista numbril 55638016 või saada sõnum allpool. Broneeri Sulle sobiv iluteenus. Koduvisiidid Tartus, Elvas ja Valgas.
           </p>
         </div>
         <Scroll type="id" element="footer">
           <a href="#footer" className="goto-next ">
-            Next
+            Järgmine
           </a>
         </Scroll>
       </div>
