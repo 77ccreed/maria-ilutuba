@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   //pathPrefix: `/maria-ilutuba/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'Telli iluteenus',
-  subHeading: 'Kvaliteetne maniküür, pediküür ja näohooldus.',
+  subHeading: 'Kvaliteetne maniküür, pediküür ja näohooldus Tartus',
   // social
   socialLinks: [
     {

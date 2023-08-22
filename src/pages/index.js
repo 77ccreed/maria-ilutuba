@@ -24,10 +24,10 @@ const IndexPage = () => (
         </span>
         <div className="content">
           <header className="major">
-            <h2>Ajad ettetellimisel</h2>
+            <h2>Iluteenus Tartus</h2>
           </header>
           <p>Hellita end meie teenustega.
-            Telli iluteenus Lõuna-Eestis endale sobival ajal sobivasse kohta. Või külasta meid aadressil Rannu, Elva tee 13-14. Töötame muuhulgas nii Tartus, Elvas kui ka Valgas. Naudi meie teenuseid mugavalt oma kodus vaid 15 € lisatasu eest.
+            Telli iluteenus Lõuna-Eestis endale sobival ajal sobivasse kohta. Töötame muuhulgas nii Tartus, Elvas kui ka Valgas. Naudi meie teenuseid mugavalt oma kodus vaid 15 € lisatasu eest.
           </p>
         </div>
         <Scroll type="id" element="two">
