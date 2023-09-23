@@ -21,6 +21,9 @@ export default function Footer() {
         <li>
           Tel: 55638016
         </li>
+        <li>
+          Tartu mnt 1, Ülenurme, Tartumaa, 61714
+        </li>
       </ul>
     </footer>
   );

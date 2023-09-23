@@ -27,7 +27,7 @@ const IndexPage = () => (
             <h2>Iluteenus Tartus</h2>
           </header>
           <p>Hellita end meie teenustega.
-            Telli iluteenus Lõuna-Eestis endale sobival ajal sobivasse kohta. Töötame muuhulgas nii Tartus, Elvas kui ka Valgas. Naudi meie teenuseid mugavalt oma kodus. <b>Teenuse tellimise lisatasu on sõltuvalt asukohast 15-50 €</b>.
+            Telli iluteenus Lõuna-Eestis endale sobival ajal sobivasse kohta. Töötame muuhulgas nii Tartus, Elvas kui ka Valgas. Naudi meie teenuseid mugavalt oma kodus. <b>Teenuse tellimise lisatasu on sõltuvalt asukohast 15-50 €</b>. Või broneeri aeg Ülenurmel, Tartu mnt 1.
           </p>
         </div>
         <Scroll type="id" element="two">
