@@ -14,6 +14,7 @@ const IndexPage = () => (
           <header className="major">
             <h2>Hinnakiri</h2>
           </header>
+
           <div className="table-wrapper">
             <table className="alt">
               <thead>
@@ -29,7 +30,7 @@ const IndexPage = () => (
                 </tr>
                 <tr>
                   <td>Naiste maniküür</td>
-                  <td>10 €</td>
+                  <td>15 €</td>
                 </tr>
                 <tr>
                   <td>Meeste maniküür</td>
@@ -37,31 +38,35 @@ const IndexPage = () => (
                 </tr>
                 <tr>
                   <td>Geellaki maniküür ühevärviline</td>
-                  <td>18 €</td>
+                  <td>20 €</td>
                 </tr>
                 <tr>
                   <td>Geellaki maniküür disainiga</td>
-                  <td>23 €</td>
+                  <td>30 €</td>
                 </tr>
                 <tr>
                   <td>Geellaki eemaldamine ja hooldus</td>
-                  <td>18 €</td>
+                  <td>10 €</td>
                 </tr>
                 <tr>
                   <td>Maniküür koos parafiini hooldusega</td>
-                  <td>18 €</td>
+                  <td>25 €</td>
                 </tr>
                 <tr>
                   <td>Pärlite kasutamine (1 pärl)</td>
-                  <td>0,15 €</td>
+                  <td>0,10 €</td>
                 </tr>
                 <tr>
                   <td>Kleepsud</td>
-                  <td>0,15 €</td>
+                  <td>0,10 €</td>
+                </tr>
+                <tr>
+                  <td>Küünte parandus hoolduse väliselt</td>
+                  <td>3 €</td>
                 </tr>
                 <tr>
                   <td>Parafiini hooldus kätele</td>
-                  <td>8 €</td>
+                  <td>7 €</td>
                 </tr>
               </tbody>
             </table>
@@ -78,24 +83,28 @@ const IndexPage = () => (
               <tbody>
 
                 <tr>
+                  <td>Paksud küüned, lõhenenud</td>
+                  <td>45 €</td>
+                </tr>
+                <tr>
                   <td>Pediküür naistele</td>
-                  <td>25 €</td>
+                  <td>30 €</td>
                 </tr>
                 <tr>
                   <td>Naiste pediküür lakiga</td>
-                  <td>25 €</td>
+                  <td>30 €</td>
                 </tr>
                 <tr>
                   <td>Naiste pediküür geellakiga</td>
-                  <td>28 €</td>
+                  <td>30 €</td>
                 </tr>
                 <tr>
                   <td>Naiste pediküür geellaki ja kaunistustega</td>
-                  <td>35 €</td>
+                  <td>40 €</td>
                 </tr>
                 <tr>
                   <td>Pediküür meestele</td>
-                  <td>30 €</td>
+                  <td>35 €</td>
                 </tr>
                 <tr>
                   <td>Jalgade parafiinihooldus</td>
@@ -126,7 +135,7 @@ const IndexPage = () => (
                 </tr>
                 <tr>
                   <td>Kaenlaalused</td>
-                  <td>5-8 €</td>
+                  <td>6-8 €</td>
                 </tr>
                 <tr>
                   <td>Kulmude depilatsioon</td>
@@ -193,6 +202,53 @@ const IndexPage = () => (
                     <td>Juukselõikus meestele</td>
                     <td>10 €</td>
                   </tr>
+                </tbody>
+              </table>
+            </div>
+
+
+            <div className="table-wrapper">
+              <table className="alt">
+                <thead>
+                  <tr>
+                    <th>Teenuse tellimise tasu</th>
+                    <th>Hind</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Tartu</td>
+                    <td>15-20 €</td>
+                  </tr>
+                  <tr>
+                    <td>Elva</td>
+                    <td>15 €</td>
+                  </tr>
+                  <tr>
+                    <td>Rõngu</td>
+                    <td>25 €</td>
+                  </tr>
+                  <tr>
+                    <td>Otepää</td>
+                    <td>25 €</td>
+                  </tr>
+                  <tr>
+                    <td>Puhja</td>
+                    <td>18 €</td>
+                  </tr>
+                  <tr>
+                    <td>Puka</td>
+                    <td>30 €</td>
+                  </tr>
+                  <tr>
+                    <td>Valga</td>
+                    <td>50 €</td>
+                  </tr>
+                  <tr>
+                    <td>Rannu</td>
+                    <td>30 €</td>
+                  </tr>
+
                 </tbody>
               </table>
             </div>

@@ -46,7 +46,7 @@ class Layout extends Component {
             >
               <html lang="et" />
               <meta name="google-site-verification" content="mnmzNy-vFEsbgOIFBmDvNuyZ8M8sh5CZPG-rh3VLyeE" />
-              <meta name="description" content="FIE Maria Arak. Ilusalong Rõngus. Teostame koduvisiite. Telli iluteenus Tartu- või Valgamaa piires endale koju. Maniküür, pediküür ja näohooldus parafiiniga." />
+              <meta name="description" content="FIE Maria Arak. Teostame koduvisiite. Telli iluteenus Tartu- või Valgamaa piires endale koju. Maniküür, pediküür ja näohooldus parafiiniga." />
 
               <script type="application/ld+json">
                 {JSON.stringify({
