@@ -20,12 +20,7 @@ module.exports = {
         icon: config.manifestIcon,
       },
     },
-    {
-      resolve: 'gatsby-plugin-sass',
-      options: {
-        implementation: require('sass')
-      }
-    },
+    'gatsby-plugin-sass',
     'gatsby-plugin-offline',
     {
       resolve: `gatsby-plugin-canonical-urls`,
