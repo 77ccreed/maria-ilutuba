@@ -218,7 +218,7 @@ const IndexPage = () => (
                 <tbody>
                   <tr>
                     <td>Tartu</td>
-                    <td>15-20 €</td>
+                    <td>4 €</td>
                   </tr>
                   <tr>
                     <td>Elva</td>
@@ -226,27 +226,27 @@ const IndexPage = () => (
                   </tr>
                   <tr>
                     <td>Rõngu</td>
-                    <td>25 €</td>
+                    <td>20 €</td>
                   </tr>
                   <tr>
                     <td>Otepää</td>
-                    <td>25 €</td>
+                    <td>20 €</td>
                   </tr>
                   <tr>
                     <td>Puhja</td>
-                    <td>18 €</td>
+                    <td>15 €</td>
                   </tr>
                   <tr>
-                    <td>Puka</td>
-                    <td>30 €</td>
+                    <td>Sihva</td>
+                    <td>25 €</td>
                   </tr>
                   <tr>
                     <td>Valga</td>
-                    <td>50 €</td>
+                    <td>42 €</td>
                   </tr>
                   <tr>
                     <td>Rannu</td>
-                    <td>30 €</td>
+                    <td>18 €</td>
                   </tr>
 
                 </tbody>
