@@ -1,0 +1,7 @@
+[build]
+  command = "npm rebuild sharp && npm run build"
+  publish = "public"
+
+[build.environment]
+  NODE_VERSION = "16.16.0"
+  NPM_FLAGS = "--legacy-peer-deps"
